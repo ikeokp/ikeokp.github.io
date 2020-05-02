@@ -290,7 +290,7 @@ nav ul a li {
 }
 
 .blinking-caret p:nth-child(4) {
-  width: 15em;
+  width: 14.5em;
   opacity: 0;
   -webkit-animation: type2 2s steps(40, end);
   animation: type2 2s steps(40, end);
@@ -312,7 +312,7 @@ nav ul a li {
 }
 
 .blinking-caret p:nth-child(6){
-  width: 14em;
+  width: 13em;
   opacity: 0;
   -webkit-animation: type2 2s steps(40, end);
   animation: type2 2s steps(40, end);
