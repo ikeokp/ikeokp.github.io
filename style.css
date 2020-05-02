@@ -290,7 +290,7 @@ nav ul a li {
 }
 
 .blinking-caret p:nth-child(4) {
-  width: 14.5em;
+  width: 15em;
   opacity: 0;
   -webkit-animation: type2 2s steps(40, end);
   animation: type2 2s steps(40, end);
@@ -301,7 +301,7 @@ nav ul a li {
 }
 
 .blinking-caret p:nth-child(5){
-  width: 7em;
+  width: 6em;
   opacity: 0;
   -webkit-animation: type2 2s steps(40, end);
   animation: type2 2s steps(40, end);
@@ -312,7 +312,7 @@ nav ul a li {
 }
 
 .blinking-caret p:nth-child(6){
-  width: 13em;
+  width: 14em;
   opacity: 0;
   -webkit-animation: type2 2s steps(40, end);
   animation: type2 2s steps(40, end);
@@ -322,7 +322,7 @@ nav ul a li {
   animation-fill-mode: forwards;
 }
 .blinking-caret p:nth-child(7){
-  width: 17em;
+  width: 15.5em;
   opacity: 0;
   -webkit-animation: type2 2s steps(40, end);
   animation: type2 2s steps(40, end);
