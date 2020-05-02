@@ -260,7 +260,7 @@ nav ul a li {
   font-size: xx-large;
 }
 .blinking-caret p:nth-child(1) {
-  width: 9em;
+  width: 9.5em;
   -webkit-animation: type 2s steps(40, end);
   animation: type 2s steps(40, end);
   -webkit-animation-fill-mode: forwards;
@@ -322,7 +322,7 @@ nav ul a li {
   animation-fill-mode: forwards;
 }
 .blinking-caret p:nth-child(7){
-  width: 15.5em;
+  width: 15em;
   opacity: 0;
   -webkit-animation: type2 2s steps(40, end);
   animation: type2 2s steps(40, end);
@@ -333,7 +333,7 @@ nav ul a li {
 }
 
 .blinking-caret p:nth-child(8){
-  width: 9em;
+  width: 7.5em;
   opacity: 0;
   -webkit-animation: type2 2s steps(40, end);
   animation: type2 2s steps(40, end);
